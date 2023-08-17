@@ -7,8 +7,8 @@
     <description>Cordova plugin for prevent screenCapture</description>
     <license>MIT</license>
     <keywords>cordova</keywords>
-    <repo>https://github.com/flotrugliocoffice/cordova-plugin-prevent-screenshot-coffice</repo>
-    <issue>https://github.com/flotrugliocoffice/cordova-plugin-prevent-screenshot-coffice/issues</issue>
+    <repo>https://github.com/transformativemed/cordova-plugin-prevent-screenshot-coffice</repo>
+    <issue>https://github.com/transformativemed/cordova-plugin-prevent-screenshot-coffice/issues</issue>
 
     <js-module src="www/screenshot.js" name="screenshot">
         <clobbers target="window.plugins.preventscreenshot"/>
